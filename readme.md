@@ -10,7 +10,7 @@
 
 - [HTML Nedir ?](konular/httplife.md)
 
-- [CSS Nedir ?](konular/httplife.md)
+- [CSS Nedir ?](konular/httplikfe.md)
 
 - [JAVASCRIPT Nedir ?](konular/httplife.md)
 
